@@ -1,0 +1,28 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static Web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbjchan1121/anydoor.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "chenzhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbjchan1121/anydoor/issues"
+  },
+  "homepage": "https://github.com/dbjchan1121/anydoor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "pre-commit": "^1.2.2"
+  }
+}
